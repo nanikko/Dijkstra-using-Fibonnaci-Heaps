@@ -20,8 +20,6 @@
  In random mode, a graph is generated with number of vertices and density as input. Using rand function, all the edges and their
  costs are generated and added to the graph. Then both the schemes are called to run the algorithm.
  In user input mode, the input from the a file is read and along with the input as which scheme should the algorithm run in.
- Author: Nitin Kosuri
- UFID:29694624
 
  The implementation of Fibonacci heap is based on the algorithm described on CLRS while the adjacency list representation is
  based on the one suggested by Guido van Rossum where hash table is used to associate each vertex in a graph with an array of
